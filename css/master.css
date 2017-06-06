@@ -1,0 +1,38 @@
+body {
+  margin: 60px;
+  background-color: rgb(27, 129, 180);
+}
+#content{
+  background-color: rgb(118, 150, 152);
+  border-radius: 20px;
+}
+h1{
+  font-size: 100px;
+}
+img#image1{
+  border-radius: 40px;
+  margin-left: 90px;
+}
+.line{
+  width: 60%;
+  border: 2px solid rgb(215, 228, 26);
+  margin: auto;
+}
+p{
+  font-size: 20px;
+}
+h2{
+  font-size: 40px;
+
+}
+#timeline{
+  margin: 25px;
+  border-radius: 20px;
+  background-color: white;
+
+}
+
+footer{
+  margin-top: 100px;
+  margin-bottom: 0px;
+}
